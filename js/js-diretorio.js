@@ -23,7 +23,7 @@ sejaBemVindo();
 var objProfessor = {
     nome: "Prof. Madson Aguiar",
     curso: "Formação JavaScript Mestre Jedi!!! :)",
-    ministrarAula: function() {
+    ministrarAula: function () {
         console.log('Ministrando aula de JavaScript.');
     }
 }
@@ -39,4 +39,8 @@ console.log('Chamando o método do objeto professor: objProfessor.ministrarAula(
 objProfessor.ministrarAula();
 
 // testando... 12345678
+
+$(function () {
+    alert('OLÁ!');
+});
 
