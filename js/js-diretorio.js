@@ -38,5 +38,5 @@ console.log(objProfessor.curso)
 console.log('Chamando o método do objeto professor: objProfessor.ministrarAula()');
 objProfessor.ministrarAula();
 
-// OPA
+// testando... 12345678
 
